@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @haune2311
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-haune2311/haune2311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://i.imgur.com/RK1kR8g.png" alt="Mokkapps GitHub README header image">
+<p><a href="https://www.twitter.com/haunexd2311"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.instagram.com/_huarie/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+<p><a href="https://www.haunexd.com">➡️ Check out my website</a></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=haune2311&amp;show_icons=true" alt="GitHub Stats"></p>
