@@ -1,4 +1,4 @@
-## Hi, I'm [Aditya](https://haunexd.com) 
+## Hi, I'm [Haune](https://haunexd.com) 
 [![Profile views](https://komarev.com/ghpvc/?username=haune2311&label=Profile%20views)](https://github.com/haune2311)
 - 💫 I’m currently working on [GreenWich VN]([https://github.com/TeamUltroid](https://greenwich.edu.vn/en/english/))
 - 📫 [Connect with me](#-connect-with-me).
