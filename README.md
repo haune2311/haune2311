@@ -31,16 +31,6 @@
 [![Metrics](https://metrics.lecoq.io/haune2311?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://haunexd.com)
 
 ---
-## 🔗 Connect with me
-
-<!-- png icons from https://iconscout.com/ -->
-<a href="https://haunexd.com" class="padded"><img align="left" alt="https://xditya.me" width="28px" src="./res/website.png" /></a> 
-<a href="#" class="padded"><img align="left" alt="xditya" width="28px" src="./res/youtube.png" /></a> 
-<a href="https://telegram.dog/haune_xd" class="padded"><img align="left" alt="xditya" width="28px" src="./res/telegram.png" /></a> 
-<a href="https://twitter.com/haunexd2311" class="padded"><img align="left" alt="xditya" width="28px" src="./res/twitter.png" /></a> 
-</br>
-
----
 
 ## 👨🏻‍💻 WakaTime Stats
 
