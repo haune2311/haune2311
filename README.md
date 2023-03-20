@@ -1,4 +1,4 @@
-<div align="center"><h2 align="left">Hi 👋! My name is Hấu and I'm a PHP Fullstack Dev, from Việt Nam</h2></div>
+<h2 align="center">Hi 👋! My name is Hấu and I'm a PHP Fullstack Dev, from Việt Nam</h2>
 
 ###
 
