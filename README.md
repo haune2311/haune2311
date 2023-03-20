@@ -23,17 +23,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/21e4eez67r2hzxbbpyj2ge6ci">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/haune2311/haune2311/blob/output/snake.svg" alt="Snake animation" />
-
-###
