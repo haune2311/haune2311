@@ -56,20 +56,25 @@ Mindset     Keep it simple, make it work, improve it later
   <img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare" alt="Cloudflare" />
 </p>
 
-## GitHub Activity
+## GitHub Overview
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=haune2311&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haune2311&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=haune2311&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
+## Activity Board
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haune2311&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
+  A visual board for the profile README. Real GitHub contribution history is shown by GitHub above the profile.
 </p>
+
+<table align="center">
+  <tr><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td></tr>
+  <tr><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td></tr>
+  <tr><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td></tr>
+  <tr><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td></tr>
+  <tr><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td></tr>
+</table>
 
 ## Featured Work
 
