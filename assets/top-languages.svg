@@ -1,0 +1,31 @@
+<svg width="420" height="340" viewBox="0 0 420 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="340" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="418" height="338" rx="17" stroke="#30363d"/>
+  <text x="34" y="42" fill="#f0f6fc" font-size="22" font-weight="700" font-family="Segoe UI, Arial">Top Languages</text>
+  <text x="34" y="63" fill="#8b949e" font-size="13" font-family="Segoe UI, Arial">Generated from repository language data</text>
+<text x="34" y="82" fill="#c9d1d9" font-size="14" font-family="Segoe UI, Arial">JavaScript</text>
+<text x="366" y="82" fill="#8b949e" font-size="13" text-anchor="end" font-family="Segoe UI, Arial">40.3%</text>
+<rect x="34" y="92" width="340" height="8" rx="4" fill="#21262d" />
+<rect x="34" y="92" width="137" height="8" rx="4" fill="#39d353" />
+<text x="34" y="124" fill="#c9d1d9" font-size="14" font-family="Segoe UI, Arial">PHP</text>
+<text x="366" y="124" fill="#8b949e" font-size="13" text-anchor="end" font-family="Segoe UI, Arial">23.6%</text>
+<rect x="34" y="134" width="340" height="8" rx="4" fill="#21262d" />
+<rect x="34" y="134" width="80" height="8" rx="4" fill="#58a6ff" />
+<text x="34" y="166" fill="#c9d1d9" font-size="14" font-family="Segoe UI, Arial">CSS</text>
+<text x="366" y="166" fill="#8b949e" font-size="13" text-anchor="end" font-family="Segoe UI, Arial">21.9%</text>
+<rect x="34" y="176" width="340" height="8" rx="4" fill="#21262d" />
+<rect x="34" y="176" width="74" height="8" rx="4" fill="#f778ba" />
+<text x="34" y="208" fill="#c9d1d9" font-size="14" font-family="Segoe UI, Arial">HTML</text>
+<text x="366" y="208" fill="#8b949e" font-size="13" text-anchor="end" font-family="Segoe UI, Arial">8.1%</text>
+<rect x="34" y="218" width="340" height="8" rx="4" fill="#21262d" />
+<rect x="34" y="218" width="28" height="8" rx="4" fill="#d2a8ff" />
+<text x="34" y="250" fill="#c9d1d9" font-size="14" font-family="Segoe UI, Arial">C#</text>
+<text x="366" y="250" fill="#8b949e" font-size="13" text-anchor="end" font-family="Segoe UI, Arial">5.5%</text>
+<rect x="34" y="260" width="340" height="8" rx="4" fill="#21262d" />
+<rect x="34" y="260" width="19" height="8" rx="4" fill="#f2cc60" />
+<text x="34" y="292" fill="#c9d1d9" font-size="14" font-family="Segoe UI, Arial">SCSS</text>
+<text x="366" y="292" fill="#8b949e" font-size="13" text-anchor="end" font-family="Segoe UI, Arial">0.6%</text>
+<rect x="34" y="302" width="340" height="8" rx="4" fill="#21262d" />
+<rect x="34" y="302" width="12" height="8" rx="4" fill="#7ee787" />
+
+</svg>
