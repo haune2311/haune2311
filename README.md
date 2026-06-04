@@ -48,43 +48,25 @@ Mindset     Keep it simple, make it work, improve it later
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,python,git,github,cloudflare,vscode,windows&perline=6" alt="Tech stack" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare" alt="Cloudflare" />
-</p>
-
 ## GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haune2311&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats" alt="GitHub stats" />
+  <img src="./assets/top-languages.svg" alt="Top languages" />
 </p>
-
-## Activity Board
 
 <p align="center">
-  A visual board for the profile README. Real GitHub contribution history is shown by GitHub above the profile.
+  <img src="https://streak-stats.demolab.com?user=haune2311&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
-<table align="center">
-  <tr><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td></tr>
-  <tr><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td></tr>
-  <tr><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td></tr>
-  <tr><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td></tr>
-  <tr><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td><td bgcolor="#39d353">&nbsp;&nbsp;</td><td bgcolor="#006d32">&nbsp;&nbsp;</td><td bgcolor="#161b22">&nbsp;&nbsp;</td><td bgcolor="#0e4429">&nbsp;&nbsp;</td><td bgcolor="#26a641">&nbsp;&nbsp;</td></tr>
-</table>
+<p align="center">
+  <img src="./assets/activity-board.svg" alt="Activity board" />
+</p>
 
 ## Featured Work
 
 <p align="center">
-  <a href="https://github.com/haune2311/Haune-Browser">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haune2311&repo=Haune-Browser&theme=github_dark&hide_border=true" alt="Haune-Browser" />
-  </a>
-  <a href="https://github.com/haune2311/clock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haune2311&repo=clock&theme=github_dark&hide_border=true" alt="clock" />
-  </a>
+  <a href="https://github.com/haune2311/Haune-Browser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haune2311&repo=Haune-Browser&theme=github_dark&hide_border=true" alt="Haune-Browser" /></a>
+  <a href="https://github.com/haune2311/clock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haune2311&repo=clock&theme=github_dark&hide_border=true" alt="clock" /></a>
 </p>
 
 ## Current Focus
