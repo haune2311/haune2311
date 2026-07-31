@@ -59,7 +59,7 @@ Mindset     Keep it simple, make it work, improve it later
 </p>
 
 <p align="center">
-  <img src="[./assets/activity-board.svg](https://github-readme-activity-graph.vercel.app/graph?username=haune2311)" alt="Activity board" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haune2311" alt="Activity board" />
 </p>
 
 ## Featured Work
