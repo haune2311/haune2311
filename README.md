@@ -61,10 +61,11 @@ Mindset     Keep it simple, make it work, improve it later
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haune2311" alt="Activity board" />
 </p>
-
+<!--
 ## Featured Work
-
-<!-- <p align="center">
+-->
+<!--
+ <p align="center">
   <a href="https://github.com/haune2311/Haune-Browser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haune2311&repo=Haune-Browser&theme=github_dark&hide_border=true" alt="Haune-Browser" /></a>
   <a href="https://github.com/haune2311/clock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=haune2311&repo=clock&theme=github_dark&hide_border=true" alt="clock" /></a>
 </p> -->
